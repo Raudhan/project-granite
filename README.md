@@ -34,3 +34,9 @@ Proyek ini merupakan bagian dari eksplorasi awal pengintegrasian AI dalam produk
 - Formulir interaktif berbasis AI
 
 Halaman ini menjadi titik awal sebelum pengembangan lebih lanjut ke aplikasi berbasis AI.
+
+## 🔗 Live Demo
+
+Aplikasi dapat diakses melalui link berikut:  
+👉 [https://melodious-kitsune-09b223.netlify.app](https://melodious-kitsune-09b223.netlify.app)
+
